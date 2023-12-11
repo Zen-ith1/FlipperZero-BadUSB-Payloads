@@ -1,0 +1,21 @@
+REM     Title: FlipKey 
+
+REM     Author: White_Wid0w
+
+REM     Description:  A Flipper Zero Payload that types in your computer password and executes to unlock PC for guest without giving out password. 
+
+REM     Target: Windows 7, 10, 11 + 
+
+
+
+REM     types password and exectes to unlock PC for guests withput giving up the password.
+
+
+STRING "Replace With Password"
+DELAY 200
+ENTER
+
+REM DONE!
+
+
+
