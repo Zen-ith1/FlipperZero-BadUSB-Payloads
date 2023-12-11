@@ -1,10 +1,10 @@
 Readme ~ 
 
 
-LED Info ~ 
+Description
 
 
-- None
+- Turns Off Pc once Payload is ran and plugged in.
 
 
 
