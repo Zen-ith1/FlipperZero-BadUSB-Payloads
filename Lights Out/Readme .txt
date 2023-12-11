@@ -1,7 +1,9 @@
 Readme ~ 
 
 
-Description
+_______________________________________________________________________
+
+Description ~ 
 
 
 - Turns Off Pc once Payload is ran and plugged in.
@@ -19,6 +21,9 @@ Requirments and Info ~
 
 - Run Payload On Flipper Then Plug In To PC.
 
+- ONLY need to save the Lights Out file to Flipper Zero.
+
+- Ready to Run without any configurations.
 
 
 _______________________________________________________________________
